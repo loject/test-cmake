@@ -1,3 +1,3 @@
 #pragma once
 
-void test_printer();
+__declspec(dllimport) void test_printer();
